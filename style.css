@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#container{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   /* background : linear-gradient(90deg, rgb(5, 5, 72),aqua);*/
+}
+#clock{
+    border: 6px solid aqua;
+    font-size: 50px;
+    padding:30px;
+    color: whitesmoke;
+}
